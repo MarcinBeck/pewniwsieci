@@ -1,0 +1,12 @@
+{
+  "short_name": "Pewni w sieci",
+  "name": "Pewni w sieci",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#e20074",
+  "theme_color": "#e20074"
+}
